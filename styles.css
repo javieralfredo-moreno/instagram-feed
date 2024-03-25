@@ -1,0 +1,89 @@
+body {
+    background: gainsboro;   
+}
+.titulo {
+    background: white;
+    width: 1500px;
+    height: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.instagram-1 {
+    background: white;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+}
+.instagram-fecha-1 {
+    display: flex;
+}
+.instagram-fecha-1 h1 {
+    width: 600px;
+}
+.instagram-fecha-1 h2 {
+    color: grey;
+}
+.instagram-pais-1 img {
+    width: 700px;
+    height: 300px;
+}
+.instagram-2 {
+    background: white;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+.instagram-fecha-2 {
+    display: flex;
+}
+.instagram-fecha-2 h1 {
+    width: 600px;
+}
+.instagram-fecha-2 h2 {
+    color: grey;
+}
+.instagram-pais-2 img {
+    width: 700px;
+    height: 300px;
+}
+.instagram-3 {
+    background: white;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+.instagram-fecha-3 {
+    display: flex;
+}
+.instagram-fecha-3 h1 {
+    width: 600px;
+}
+.instargram-fecha-3 h2 {
+    color: grey;
+}
+.instagram-pais-3 img {
+    width: 700px;
+    height: 300px;
+}
+.instagram-4 {
+    background: white;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+.instagram-fecha-4 {
+    display: flex;
+}
+.instagram-fecha-4 h1 {
+    width: 600px;
+}
+.instargram-fecha-4 h2 {
+    color: grey;
+}
+.instagram-pais-4 img {
+    width: 700px;
+    height: 300px;
+}
